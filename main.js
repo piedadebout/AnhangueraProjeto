@@ -55,4 +55,19 @@ function mostrarProdutos(){
 
 mostrarProdutos()
 
+ function buscaProduto() {
+    let nomeBusca = ("Qual e o produto que voce deseja buscar")
+    let encontrado = false;
+    
+    for (let p in produtos) {
+        if (p.nome.toLowerCase() === nomeBusca.toLowerCase())
+            console.log('nome: ${p.nome}, preco: ${p.preco}, estoque: ${p.estoque} ')
+            encontrado = true
+            break
+    }
+ }
+ if (!encontrado) {
+    console.log('Desculpa nao conseguimos encontrar o seu produto')
+ }
 
+ buscaProduto()
