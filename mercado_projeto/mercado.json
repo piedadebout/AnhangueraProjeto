@@ -1,5 +1,24 @@
 {
-    "produtos": [],
+    "produtos": [
+        {
+            "codigo": 1,
+            "nome": "arroz",
+            "preco": 18.0,
+            "estoque": 10
+        },
+        {
+            "codigo": 2,
+            "nome": "feijao",
+            "preco": 13.0,
+            "estoque": 10
+        },
+        {
+            "codigo": 3,
+            "nome": "acucar",
+            "preco": 7.0,
+            "estoque": 10
+        }
+    ],
     "carrinho": {},
     "admins": [
         {
