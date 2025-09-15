@@ -36,9 +36,11 @@ O objetivo é treinar lógica de programação, estruturas de dados e boas prát
 ---
 
 ## 🛠️ Tecnologias
-- **Linguagem:** Python 3.x  
-- **Bibliotecas:** Nenhuma externa (somente recursos nativos)  
 
+Atualmente o projeto está sendo desenvolvido em **Python 3.x**, utilizando apenas recursos nativos da linguagem.  
+
+No entanto, pretendemos adicionar novas linguagens e ferramentas ao longo do tempo, conforme formos aprendendo e evoluindo nossas habilidades. 🚀
+ 
 ---
 
 ## 📂 Estrutura (exemplo)
